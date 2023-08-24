@@ -1,6 +1,6 @@
 # Previsão do Tempo
 
-![Preview](../previsao-do-tempo/images/previsao_tempo.jpg)
+![Preview](images/previsao_tempo.jpg)
 
 Este projeto é uma aplicação web simples para exibir a previsão do tempo com base na cidade inserida pelo usuário. Ele utiliza a API da OpenWeatherMap para obter os dados meteorológicos e apresenta as informações de temperatura, descrição do clima, umidade e horário atual.
 
